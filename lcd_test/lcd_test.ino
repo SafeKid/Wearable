@@ -4,11 +4,7 @@ void setup() {
 
 void loop() {
   int x;
-  x=random(67,70);
-  Serial.print("Hear rate is ");
-  Serial.print(x);
-  Serial.println(" ");
-  delay(800);
+  //test
   
 
 }
