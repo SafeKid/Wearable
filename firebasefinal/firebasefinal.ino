@@ -10,8 +10,8 @@
 #define WIFI_SSID "Navagamuwa Residence"
 #define WIFI_PASSWORD "i@home123"
 
-String lat="60";
-String lon="61";
+String lat="6.909194";
+String lon="79.93661";
 
 void setup() {
 
